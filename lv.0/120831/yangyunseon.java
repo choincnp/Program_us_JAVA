@@ -1,4 +1,4 @@
-public class Yangyunseon {
+public class yangyunseon {
     class Solution {
         public int solution(int n) {
             int answer = 0;

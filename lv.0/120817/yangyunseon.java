@@ -1,4 +1,4 @@
-public class Yangyunseon {
+public class yangyunseon {
     class Solution {
         public double solution(int[] numbers) {
             double answer = 0;
